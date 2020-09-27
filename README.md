@@ -1,4 +1,3 @@
 # GIT1
-**LIST
-Python
-C++
+*Portfolio
+**HTML + CSS + JS
