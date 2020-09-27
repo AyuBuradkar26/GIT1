@@ -1,2 +1,3 @@
 # GIT1
-learning purpose
+**learning purpose
+Python**
