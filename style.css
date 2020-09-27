@@ -1,0 +1,28 @@
+.Name{color: Purple;}
+body{font-family: sans-serif;
+color: #777777;
+line-height: 26px;}
+.HL{width: 50%;
+float: left;
+padding: 10px;}
+.I{border: 5px solid purple;
+padding: 25px;}
+.C{color: white;
+background-color: green;
+padding: 13px 42px 13px 42px;
+border-radius: 20px;
+text-decoration: none;}
+.Co{padding-left=5px;
+display:inline-block;
+margin: 5px;
+border: 2px solid blue;
+border-radius: 25px;
+background-color: rgb(238,251,255);}
+.B{float :right;}
+.Ex{padding: 30px;
+margin: 30px;
+background-color: rgb(238,251,255);
+border-radius: 20px;}
+.EI{padding: 10px;
+border-left: 1px solid rgba(137,130,247, .2);
+#but{background-color:red;}
